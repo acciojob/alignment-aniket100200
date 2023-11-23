@@ -1,1 +1,49 @@
 /*  your css code here. If applicable */
+.middle
+{
+	border:1px solid black;
+	width:100%;
+	
+}
+#table-1 td,#table-2 td,#table-3 td
+{
+	border:1px solid black;	
+}
+
+.center{
+	text-align:center;
+}
+
+.right{
+	text-align:right;
+}
+
+#table-2 
+{
+	height:200px;
+	margin-top:30px;
+}
+
+#table-3
+{
+	height:200px;
+	margin-top:30px;
+}
+
+
+#t31{
+	background-color:green;
+	height:20px;
+}
+
+#t33{
+	background-color:blue;
+	height:20px;
+}
+
+#section
+{
+	height:100%;
+}
+
+
